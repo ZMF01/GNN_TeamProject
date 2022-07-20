@@ -27,11 +27,8 @@ dataset. Each node represents a paper, and each
 edge represents a citation from the source paper 
 to the target paper.&nbsp;
 
-&emsp;&emsp;It is a famous dataset that has a total of 2708 
-research papers and all samples belong to 7 
-categories. Each sample paper is represented by 
-a 1433-dimensional feature vector. Feature 
-vectors are constructed by the bag-of-words model.
+&emsp;&emsp;It is a famous dataset that has a total of 2708 research papers and all samples belong to 7 categories. Each sample paper is represented by 
+a 1433-dimensional feature vector. Feature vectors are constructed by the bag-of-words model.
 <img width="312" alt="image" src="https://user-images.githubusercontent.com/91409788/179866214-3c001f08-1aeb-408b-aeed-3e4ccf8e584c.png">
 ## III. MODEL - GraphSage
 
