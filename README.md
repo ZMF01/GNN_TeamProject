@@ -31,7 +31,7 @@ to the target paper.&nbsp;
 research papers and all samples belong to 7 
 categories. Each sample paper is represented by 
 a 1433-dimensional feature vector. Feature 
-vectors are constructed by the bag-of-words model.&nbsp;
+vectors are constructed by the bag-of-words model.
 <img width="312" alt="image" src="https://user-images.githubusercontent.com/91409788/179866214-3c001f08-1aeb-408b-aeed-3e4ccf8e584c.png">
 ## III. MODEL - GraphSage
 
